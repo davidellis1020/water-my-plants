@@ -23,6 +23,6 @@ exports.seed = function(knex) {
             image: "https://www.gardeningknowhow.com/wp-content/uploads/2009/07/control-bamboo.jpg",
           }
         ]);
-      });
-  };
+    });
+};
   
